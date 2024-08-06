@@ -1,0 +1,44 @@
+.wraper {
+    border: 1px solid;
+    margin: 5px;
+    padding: 5px;
+    width: 510px;
+    margin-right: auto;
+    margin-left: auto;
+  
+  }
+
+  h1 {
+    text-align: center;
+}
+      .item {
+    margin: 5px;
+    padding: 2px;
+  
+  }
+  .input_label {
+    display: inline-block;
+    font-weight: bold;
+    padding: 2px;
+    vertical-align: middle;
+    width: 130px;
+  }
+  
+  .input_label:after{
+       content: ":";
+       float: right;
+       font-weight: bold;
+  
+  }
+  
+  .input_type {
+    font-weight: bold;
+    vertical-align: middle;
+  }
+      table,th,tr,td{
+          border: 1px solid;
+          padding:2px;
+          margin:5px;
+          width: 510px;
+      }
+  a{ text-decoration: none; padding: 2px;}

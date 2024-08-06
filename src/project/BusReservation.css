@@ -1,0 +1,45 @@
+.wraper {
+    border: 1px solid;
+    padding: 5px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+   
+  }
+  .input_label {
+    display: inline-block;
+    padding: 5px;
+    width: 130px;
+    font-weight: bold;
+  }
+  .from_simple {
+    width: 140px;
+    display: inline-block;
+  padding: 5px;
+  font-weight: bold;
+  }
+  .journey_main > div {
+    float: left;
+    overflow: auto;
+  }
+  .option_fromTo> select {
+    float: left;
+    width: 50%;
+  }
+  .input_label:after { content: ":"}
+  .input_label:after { float:right;}
+  #btnUpdate {text-align:center;}
+  
+  table ,th,td{
+    border: 1px solid;
+    padding: 1px;
+    width: 500px;
+    margin: 4px;
+    margin-right: auto;
+    margin-left: auto;
+   
+  }
+  a{
+      text-decoration: none;
+      padding: 5px;
+  }
